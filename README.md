@@ -17,3 +17,6 @@ Open http://127.0.0.1:5000 and click **Load sample demo data**.
 timestamp, username, ip_address, result
 
 Use only synthetic data or logs you are authorized to analyze. This is an educational prototype, not production SIEM software.
+## Live Demo
+
+[Open CyberShield Mini SIEM](https://cyberahield-minisiem.onrender.com)
